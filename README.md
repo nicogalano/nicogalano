@@ -3,6 +3,7 @@
 I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 
 ## Technologies & Tools
+[<img src='https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/python.svg' alt='python' height='40'>]
 - PYTHON 
 - C++ 
 - TCL
