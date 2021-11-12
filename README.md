@@ -19,4 +19,7 @@ I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicogalano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolas-galano/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nico_galano)  
 
-<!--- https://shields.io/ -->
+<!--- 
+https://shields.io/ 
+https://simpleicons.org/
+-->
