@@ -9,8 +9,6 @@ I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 - HTML
 - CSS
 
-- 🔭 I’m currently working on this page. 
-
 <!--- 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicogalano&theme=panda)
