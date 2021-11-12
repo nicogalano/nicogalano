@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicogalano)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **nicogalano/nicogalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
