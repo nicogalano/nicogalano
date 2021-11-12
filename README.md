@@ -3,7 +3,7 @@
 I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 
 ## Skills and Experience
-Skills: PYTHON / C++ / OPENSEES  / TCL / HTML / CSS
+Skills: PYTHON / C++ / TCL / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
@@ -13,7 +13,7 @@ Skills: PYTHON / C++ / OPENSEES  / TCL / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicogalano)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicogalano&theme=panda)]
 
 
 <!--
