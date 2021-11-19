@@ -1,5 +1,5 @@
 # Hey, I'm Nico Galano
-
+(https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/header-banner-simple.svg)
 I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 
 ## Technologies & Tools
