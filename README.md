@@ -3,13 +3,7 @@
 I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 
 ## Technologies & Tools
-- PYTHON 
-- C++ 
-- TCL
-- HTML
-- CSS
-
-- 🔭 I’m currently working on this page. 
+<img src='https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/python.svg' alt='python' height='40'> <img src='https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/cplusplus.svg' alt='cplusplus' height='40'> <img src='https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/html5.svg' alt='html5' height='40'> <img src='https://raw.githubusercontent.com/nicogalano/nicogalano/f2e145bce22d2d8134838220e4d1885fe69b2312/img/css3.svg' alt='css3' height='40'> 
 
 <!--- 
 ## GitHub Stats
@@ -22,4 +16,5 @@ I'm Nicolas from Chile. I really enjoy learning lenguages and frameworks.
 <!--- 
 https://shields.io/ 
 https://simpleicons.org/
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
